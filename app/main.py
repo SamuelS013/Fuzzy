@@ -6,7 +6,7 @@ from pages import PAGES, START_PAGE
 class App(ctk.CTk):
     def __init__(self):
         super().__init__()
-        self.title("Stitch App")
+        self.title("Fuzzy App")
         self.geometry("750x550")
         self.resizable(False, False)
 

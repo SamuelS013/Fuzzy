@@ -67,7 +67,7 @@ class DownloadPage(BasePage):
 
         self.text_brand_titulo = ctk.CTkLabel(
             master=self.text_brand_frame,
-            text="Stitch",
+            text="Fuzzy",
             font=("Arial", 25, "bold"),
             fg_color=colorPricipal,
             text_color=colorBlanco
